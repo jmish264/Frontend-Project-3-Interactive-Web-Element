@@ -19,6 +19,9 @@ Spice Garden is an interactive restaurant website developed using HTML, CSS and 
 ## Project Type
 Interactive Web Elements
 
+## Live Demo
+https://jmish264.github.io/Frontend-Project-3-Interactive-Web-Element/
+
 ## Author
 Jatin Mishra
 
